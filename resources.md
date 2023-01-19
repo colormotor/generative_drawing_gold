@@ -1,3 +1,10 @@
+# Resources/links
+## Inspiration
+- [Data is nature](https://www.dataisnature.com), Paul Prudence's blog, full of nice geneative art books and works reviews.
+- [Paul Klee's notebooks](https://monoskop.org/images/4/4e/Paul_Klee_Notebooks_Vol_2_The_Nature_of_Nature.pdf)
+
+## Techniques
+- [Generative art with Math in p5js](https://tetunori.github.io/GenerativeArtWithMath-p5.js/)
 ## Early computer art (for inspiration)
 
 -   [The Algorists](http://www.verostko.com/algorist.html), article by
@@ -15,4 +22,5 @@
 
 ## Demo scene 
 -   [Pouet.net](https://www.pouet.net), a good website to see the latest "Demo scene" productions
-    - Good to check productions from these "parties" (mostly 4kb, 64kb and PC demos): [Assemly](https://www.pouet.net/party.php?which=7&when=2022) and [Revision](https://www.pouet.net/party.php?which=1550&when=2022)  
+    - Good to check productions from these "parties" (mostly 4kb, 64kb and PC demos): [Assemly](https://www.pouet.net/party.php?which=7&when=2022) and [Revision](https://www.pouet.net/party.php?which=1550&when=2022)
+- [Nice demo by the "Mercury" group](https://youtu.be/XF4SEVbxUdE)
