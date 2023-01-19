@@ -1,1 +1,1 @@
-# generative_drawing_gold
+# IS51028B: Generative Drawing
