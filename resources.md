@@ -12,3 +12,7 @@
 -   [Short
     article on computer art history](http://www.vam.ac.uk/content/articles/a/computer-art-history/)
 -   [Generative plotter drawings at the V&A](http://collections.vam.ac.uk/search/?id_technique=x43893), needs booking but you can see it in person.
+
+## Demo scene 
+-   [Pouet.net](https://www.pouet.net), a good website to see the latest "Demo scene" productions
+    - Good to check productions from these "parties" (mostly 4kb, 64kb and PC demos): [Assemly](https://www.pouet.net/party.php?which=7&when=2022) and [Revision](https://www.pouet.net/party.php?which=1550&when=2022)  
