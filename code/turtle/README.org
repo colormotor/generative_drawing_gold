@@ -1,7 +1,7 @@
 #+title: Javascript Turtle API
 
 An adpatation of the Javascript Turtle class from [[https://turtletoy.net][TurtleToy]] designed to work with [[https://p5js.org][P5js]].
-
+The original code for this has been written by Reinder Nijhoff ([[https://twitter.com/ReinderNijhoff][@ReinderNijhoff]]).
 * Move and draw
 **** forward(distance) | fd(distance)
 Move the turtle forward by the specified distance, in the direction the turtle is headed.

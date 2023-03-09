@@ -3,6 +3,9 @@
 - [Data is nature](https://www.dataisnature.com), Paul Prudence's blog, full of nice geneative art books and works reviews.
 - [Paul Klee's notebooks](https://monoskop.org/images/4/4e/Paul_Klee_Notebooks_Vol_2_The_Nature_of_Nature.pdf)
 
+## Math/geometry resources
+- [Lucas Vieira's blog](https://1ucasvb.tumblr.com), lots of nice/useful visualizations relating to sine/cosine and maths in general.
+- [Paul Bourke's website](http://paulbourke.net), lots useful resources for generating curves and computer graphics in general.
 ## Techniques
 - [Generative art with Math in p5js](https://tetunori.github.io/GenerativeArtWithMath-p5.js/)
 ## Early computer art (for inspiration)
