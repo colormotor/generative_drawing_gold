@@ -2,6 +2,12 @@
 
 An adpatation of the Javascript Turtle class from [[https://turtletoy.net][TurtleToy]] designed to work with [[https://p5js.org][P5js]].
 The original code for this has been written by Reinder Nijhoff ([[https://twitter.com/ReinderNijhoff][@ReinderNijhoff]]).
+To imprt this add
+#+begin_example
+<script src="https://colormotor.github.io/generative_drawing_gold/code/turtle/turtle.js"></script>
+#+end_example
+to your ~index.html~ head.
+
 * Move and draw
 **** forward(distance) | fd(distance)
 Move the turtle forward by the specified distance, in the direction the turtle is headed.
